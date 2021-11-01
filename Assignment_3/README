@@ -1,0 +1,43 @@
+**************************************************
+Contruibutors
+**************************************************
+Pranjal Saini , 203050014
+Harsh Peswani , 203050043
+Shubham Nemani , 203050011
+
+
+
+
+*************
+Libraries Used
+**************
+1. pytorch
+2. nltk
+3. Keras
+4. Numpy.
+5. Pandas.
+6. Gensim.
+7. Nltk.
+8. Sklearn.
+9. Imblearn.
+10. Json
+
+
+*******************
+Directory Structure
+*******************
+
+-code.py
+-vocab.json
+-README
+
+
+*****************************************************************************
+Important Instructions:
+*****************************************************************************
+
+
+1. Due to size constraints crawl-300d-2M-subword.bin embedding file is not included , please download it from https://drive.google.com/file/d/1jehq92nftBGpV7cUn-WSWwn3MiRI61qI/view into the same folder
+2. These test ground truths are used to calculate accuracy on test data.
+3. Please keep vocab.json file while executting code.py
+4. code can be run by importing code.py and calling main with path of train and test files as a parameter.
